@@ -33,3 +33,5 @@ build/
 .vscode/
 
 jte-classes/
+src/main/frontend/node/
+src/main/resources/frontend/
