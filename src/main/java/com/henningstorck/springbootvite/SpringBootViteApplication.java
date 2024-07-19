@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBootViteApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootViteApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootViteApplication.class, args);
+    }
 }
