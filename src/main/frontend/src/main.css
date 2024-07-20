@@ -1,0 +1,12 @@
+@import 'open-props/style';
+@import 'open-props/normalize';
+
+:root {
+    --size-content-1: 100%;
+    --size-content-2: 100%;
+    --size-content-3: 100%;
+
+    --size-header-1: 100%;
+    --size-header-2: 100%;
+    --size-header-3: 100%;
+}
