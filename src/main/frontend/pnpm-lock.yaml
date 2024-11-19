@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       open-props:
-        specifier: ^1.7.5
-        version: 1.7.5
+        specifier: ^1.7.7
+        version: 1.7.7
     devDependencies:
       typescript:
         specifier: ^5.2.2
@@ -257,8 +257,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  open-props@1.7.5:
-    resolution: {integrity: sha512-DajjLQDJgIa0i+QdB2q5M8lNLo2ICk+DbDh4TsqNsT1tAO8Zm8F7dndSkLMQkobT98lbvDMMpJWO8NT0ibjrjA==}
+  open-props@1.7.7:
+    resolution: {integrity: sha512-yn4B4D2dG7HGiZQSSdS03+jnsKlVIfdcWk6XyvSeTHcu2oqRbIEnJ9BVT7Qfq5N9p6z7tEIHTuRZoxckAemfqA==}
 
   picocolors@1.0.1:
     resolution: {integrity: sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==}
@@ -461,7 +461,7 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  open-props@1.7.5: {}
+  open-props@1.7.7: {}
 
   picocolors@1.0.1: {}
 
