@@ -13,6 +13,6 @@
         "vite": "^5.4.11"
     },
     "dependencies": {
-        "open-props": "^1.7.7"
+        "open-props": "^1.7.8"
     }
 }
